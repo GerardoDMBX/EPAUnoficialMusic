@@ -1,0 +1,15 @@
+ModificationType: Addon
+Name: Unoficial Music facctions
+Version: 01
+SimpleDownloadLink: https://www.moddb.com/mods/rotrempire-pacific-alliance-submod/addons/unoficial-music-factions-addon
+UIImageSourceLink: ''
+DiscordLink: ''
+ModDBLink: ''
+NewsLink: ''
+DependenceName: Empire Pacific Alliance
+S3HostLink: https://empirepacificalliance.s3.us-east-2.amazonaws.com/C%26CEPA_Addons/!!!!!!!!!!ROTRJapanFactionsMusic.big
+S3BucketName: empirepacificalliance
+S3FolderName: C&CEPA_Addons
+S3HostPublicKey: ''
+S3HostSecretKey: ''
+NetworkInfo: ''
