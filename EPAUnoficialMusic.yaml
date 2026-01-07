@@ -1,6 +1,6 @@
 ModificationType: Addon
 Name: Unoficial Music facctions
-Version: 01
+Version: 02
 SimpleDownloadLink: https://www.moddb.com/mods/rotrempire-pacific-alliance-submod/addons/unoficial-music-factions-addon
 UIImageSourceLink: ''
 DiscordLink: ''
@@ -13,6 +13,7 @@ S3FolderName: rotrepaM
 S3HostPublicKey: ''
 S3HostSecretKey: ''
 NetworkInfo: ''
+
 
 
 
